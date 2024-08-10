@@ -191,7 +191,7 @@ python manage.py test
 To manually trigger the deletion of old soft-deleted posts:
 
 ```
-python manage.py delete_old_soft_deleted_posts
+python manage.py delete_soft_deleted_posts
 ```
 
 ## Development Notes
